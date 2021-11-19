@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       I'm Ahmed Ramy and am really excited that you landed on my personal
       website!
-    actions:
-      - label: More about me
-        url: /features
-        style: primary
+    actions: []
     align: left
     image: /images/Logo-ce96be54.png
     image_alt: Hero placeholder image
