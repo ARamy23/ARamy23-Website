@@ -61,10 +61,6 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - type: blog_feed_section
-    title: Blog
-    show_recent: true
-    recent_count: 3
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
