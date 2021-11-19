@@ -37,6 +37,11 @@ sections:
         content: >
           I like helping others and at the same time it helps me keep my
           thoughts organized
+
+
+
+
+          > Yep, a Friends fan here
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
