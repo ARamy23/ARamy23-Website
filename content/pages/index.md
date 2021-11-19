@@ -43,7 +43,7 @@ sections:
 
           > Yep, a Friends fan here
         align: left
-        image: images/feature.svg
+        image: /images/Group 224.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
