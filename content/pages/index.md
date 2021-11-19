@@ -10,9 +10,6 @@ sections:
       - label: More about me
         url: /features
         style: primary
-      - label: Personal Blog
-        url: /contact
-        style: secondary
     align: left
     image: /images/Logo-ce96be54.png
     image_alt: Hero placeholder image
