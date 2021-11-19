@@ -7,7 +7,7 @@ sections:
       I'm Ahmed Ramy and am really excited that you landed on my personal
       website!
     actions:
-      - label: Learn More
+      - label: More about me
         url: /features
         style: primary
       - label: Contact Us
