@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hello, there!'
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      I'm Ahmed Ramy and am really excited that you landed on my personal
+      website!
     actions:
       - label: Learn More
         url: /features
