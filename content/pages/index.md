@@ -55,19 +55,6 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
