@@ -41,9 +41,7 @@ sections:
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - url: /features
-            style: secondary
+        actions: []
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
