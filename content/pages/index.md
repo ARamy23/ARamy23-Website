@@ -29,7 +29,7 @@ sections:
     features:
       - title: I'm an iOS Mobile Apps Software Engineer
         align: left
-        image: images/feature.svg
+        image: /images/iOS Software Engineer Badge.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
