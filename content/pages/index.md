@@ -51,6 +51,11 @@ sections:
         content: >
           Not my most favorite channel of knowledge sharing but I figured that
           sometimes people prefer it
+
+
+
+
+          So I use it as a code-along or live coding database
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
