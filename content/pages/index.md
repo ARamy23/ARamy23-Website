@@ -57,7 +57,7 @@ sections:
 
           So I use it as a code-along or live coding database
         align: left
-        image: images/feature.svg
+        image: /images/YouTube Logo.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
