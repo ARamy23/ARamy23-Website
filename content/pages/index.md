@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: More about me
     features:
-      - title: I'm an iOS Developer
+      - title: I'm an iOS Mobile Apps Software Engineer
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
