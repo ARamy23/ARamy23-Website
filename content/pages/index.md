@@ -29,7 +29,7 @@ sections:
         actions:
           - label: Check out my History
             url: '#'
-            style: primary
+            style: secondary
             new_window: false
             no_follow: false
       - title: I Blog some times
