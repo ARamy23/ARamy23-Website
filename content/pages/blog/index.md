@@ -8,6 +8,7 @@ sections:
       This my most favorite channel of knowledge sharing, also my most active
       one, it's also central between all the channels I share on, so hopefully
       you will find something to benefit you here, isA.
+    image: /images/Group 224.png
   - type: blog_feed_section
     show_recent: true
     title: The Recent Ones
