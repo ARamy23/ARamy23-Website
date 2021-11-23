@@ -71,7 +71,7 @@ sections:
             new_window: false
             no_follow: false
 seo:
-  title: Ahmed Ramy
+  title: Nerdor
   description: 'The very home of the '
   extra:
     - name: 'og:type'
