@@ -7,7 +7,7 @@ sections:
       I'm Ahmed Ramy and am really excited that you landed on my personal
       website!
     actions:
-      - label: lorem-ipsum
+      - label: 'Jump straight to '
         url: '#'
         style: link
         new_window: false
