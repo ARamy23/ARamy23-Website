@@ -72,7 +72,7 @@ sections:
             no_follow: false
 seo:
   title: Ahmed Ramy
-  description: The preview of the Starter theme
+  description: 'The very home of the '
   extra:
     - name: 'og:type'
       value: website
