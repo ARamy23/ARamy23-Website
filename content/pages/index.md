@@ -26,7 +26,12 @@ sections:
         image: /images/iOS Software Engineer Badge.png
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
       - title: I Blog some times
         content: >
           I like helping others and at the same time it helps me keep my
