@@ -46,7 +46,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: Zoom
+          - label: Give it a read
             url: '#'
             style: link
             new_window: false
