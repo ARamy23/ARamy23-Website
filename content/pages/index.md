@@ -45,7 +45,12 @@ sections:
         image: /images/Group 224.png
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
       - title: And I sometimes share some videos on YouTube
         content: >
           Not my most favorite channel of knowledge sharing but I figured that
