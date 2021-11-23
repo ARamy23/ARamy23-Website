@@ -10,6 +10,7 @@ sections:
       you will find something to benefit you here, isA.
     image: /images/Group 224.png
     image_position: right
+    has_background: true
   - type: blog_feed_section
     show_recent: true
     title: The Recent Ones
