@@ -11,6 +11,11 @@ sections:
     image: /images/Group 224.png
     image_position: right
     has_background: false
+    background:
+      background_color: white
+      background_image_opacity: 0
+      background_image_size: cover
+      background_image_repeat: no-repeat
   - type: blog_feed_section
     show_recent: true
     title: The Recent Ones
