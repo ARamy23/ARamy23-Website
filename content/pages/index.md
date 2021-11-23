@@ -48,7 +48,7 @@ sections:
         actions:
           - label: Give it a read
             url: '#'
-            style: link
+            style: primary
             new_window: false
             no_follow: false
       - title: And I sometimes share some videos on YouTube
