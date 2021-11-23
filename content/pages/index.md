@@ -47,7 +47,7 @@ sections:
         image_position: left
         actions:
           - label: Give it a read
-            url: '#'
+            url: /blog
             style: primary
             new_window: false
             no_follow: false
