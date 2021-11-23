@@ -7,7 +7,7 @@ sections:
   - type: blog_feed_section
     show_recent: true
     title: The Recent Ones
-  - title: The Series
+  - title: The Ones with the Series
     show_recent: false
     recent_count: 0
     type: blog_feed_section
