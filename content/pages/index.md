@@ -67,7 +67,7 @@ sections:
         actions:
           - label: "Give it a look \U0001F440"
             url: '#'
-            style: link
+            style: primary
             new_window: false
             no_follow: false
 seo:
