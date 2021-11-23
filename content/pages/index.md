@@ -71,7 +71,7 @@ sections:
             new_window: false
             no_follow: false
 seo:
-  title: Stackbit Starter Theme
+  title: Ramy's Blog
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
