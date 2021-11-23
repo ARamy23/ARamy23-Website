@@ -46,7 +46,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Check what am writing about as of now
             url: '#'
             style: link
             new_window: false
