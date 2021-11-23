@@ -4,7 +4,10 @@ sections:
   - type: hero_section
     title: Ramy's Blog
     align: center
-    subtitle: This my most favorite channel of knowledge sharing
+    subtitle: >-
+      This my most favorite channel of knowledge sharing, also my most active
+      one, it's also central between all the channels I share on, so hopefully
+      you will find
   - type: blog_feed_section
     show_recent: true
     title: The Recent Ones
