@@ -27,7 +27,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: lorem-ipsum
+          - label: Jump to the Portfolio
             url: '#'
             style: link
             new_window: false
