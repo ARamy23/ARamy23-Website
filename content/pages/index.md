@@ -27,7 +27,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Jump to the Portfolio
+          - label: Check out
             url: '#'
             style: link
             new_window: false
