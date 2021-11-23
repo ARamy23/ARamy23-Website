@@ -70,6 +70,12 @@ sections:
             style: primary
             new_window: false
             no_follow: false
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
