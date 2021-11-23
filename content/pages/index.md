@@ -65,7 +65,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: "Give it a look \U0001F440"
+          - label: "Give it a look  \U0001F440"
             url: '#'
             style: primary
             new_window: false
