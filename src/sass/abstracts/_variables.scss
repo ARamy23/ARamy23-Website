@@ -22,9 +22,9 @@ $color-link:                   #28aaff !default;
 
 // Blockquotes
 $color-blockquote: #00BAFF !default;
-$color-blockquote: -webkit-linear-gradient(bottom, #00BAFF, #063EF9);
-$color-blockquote: -moz-linear-gradient(bottom, #00BAFF, #063EF9);
-$color-blockquote: linear-gradient(to top, #00BAFF, #063EF9);
+$color-blockquote: -webkit-linear-gradient(bottom, #00BAFF, #063EF9) !default;
+$color-blockquote: -moz-linear-gradient(bottom, #00BAFF, #063EF9) !default;
+$color-blockquote: linear-gradient(to top, #00BAFF, #063EF9) !default;
 $color-blockquote-border:      #0068FF !default;
 $color-blockquote-border: #00BAFF;
 $color-blockquote-border: -webkit-linear-gradient(bottom, #00BAFF, #063EF9);
