@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Ramy's Blog
     align: center
+    subtitle: This my most favorite channel of sharing
   - type: blog_feed_section
     show_recent: true
     title: The Recent Ones
