@@ -6,12 +6,7 @@ sections:
     subtitle: >-
       I'm Ahmed Ramy and am really excited that you landed on my personal
       website!
-    actions:
-      - label: Jump straight to the goodies
-        url: '#'
-        style: primary
-        new_window: false
-        no_follow: false
+    actions: []
     align: left
     image: /images/Logo-ce96be54.png
     image_alt: Hero placeholder image
