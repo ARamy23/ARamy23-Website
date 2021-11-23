@@ -64,7 +64,12 @@ sections:
         image: /images/YouTube Logo-7a6152c7.png
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
