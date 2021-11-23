@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Jump straight to the goodies
         url: '#'
-        style: link
+        style: primary
         new_window: false
         no_follow: false
     align: left
