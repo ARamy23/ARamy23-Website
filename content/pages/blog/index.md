@@ -11,7 +11,7 @@ sections:
     show_recent: false
     recent_count: 0
     type: blog_feed_section
-  - title: lorem-ipsum
+  - title: 'The Ones with the '
     show_recent: false
     recent_count: 0
     type: blog_feed_section
