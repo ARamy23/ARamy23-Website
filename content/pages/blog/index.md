@@ -15,7 +15,7 @@ sections:
     show_recent: false
     recent_count: 0
     type: blog_feed_section
-  - title: 'The Video-Backed '
+  - title: The Video-Backed Posts
     show_recent: false
     recent_count: 0
     type: blog_feed_section
