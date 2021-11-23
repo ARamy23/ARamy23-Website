@@ -11,7 +11,7 @@ sections:
     show_recent: false
     recent_count: 0
     type: blog_feed_section
-  - title: 'The Ones with the many '
+  - title: 'The Ones with the many tounges (a.k.a: Localized Blogs)'
     show_recent: false
     recent_count: 0
     type: blog_feed_section
