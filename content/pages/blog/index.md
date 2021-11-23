@@ -5,7 +5,7 @@ sections:
     title: Ramy's Blog
     align: center
   - type: blog_feed_section
-    show_recent: false
+    show_recent: true
     title: The Recent Ones
 seo:
   title: Blog
