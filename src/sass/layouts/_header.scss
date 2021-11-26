@@ -55,7 +55,7 @@
 @include media-breakpoint-down(md) {
   .navbar {
     &:after {
-      background: $color-bg-overlay;
+      background: 000000;
       content: "";
       height: 100vh;
       left: 0;
