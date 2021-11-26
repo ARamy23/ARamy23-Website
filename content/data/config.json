@@ -8,7 +8,7 @@
             {
                 "label": "Portfolio",
                 "url": "/features",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Blog",
