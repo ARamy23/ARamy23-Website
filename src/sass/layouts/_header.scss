@@ -55,7 +55,7 @@
 @include media-breakpoint-down(md) {
   .navbar {
     &:after {
-      background: 000000;
+      background: clear;
       content: "";
       height: 100vh;
       left: 0;
