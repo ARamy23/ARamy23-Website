@@ -54,13 +54,12 @@ export default class Body extends React.Component {
                 </Helmet>
                 <div id="site-wrap" className="site">
                     <div className="card" style={{background: "linear-gradient(#e66465, #9198e5);" }}>
-                        
-                    </div>
-                    <Header page={page} config={config} />
+                        <Header page={page} config={config} />
                     <main id="content" className="site-content">
                         {this.props.children}
                     </main>
                     <Footer config={config} />
+                    </div>
                 </div>
             </React.Fragment>
         );
