@@ -15,7 +15,8 @@
                 "url": "/blog",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "/images/Logo-648e5f40.png"
     },
     "domain": "https://aramy.netlify.app/",
     "favicon": "/images/Logo-44036730.png"
