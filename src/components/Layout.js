@@ -53,7 +53,7 @@ export default class Body extends React.Component {
                     {favicon && <link rel="icon" href={withPrefix(favicon)} />}
                 </Helmet>
                 <div id="site-wrap" className="site">
-                    <div style={{backgroundImage: "linear-gradient(to bottom, #535664, #202D3A)" }}>
+                    <div style={{backgroundImage: "linear-gradient(to right, #535664, #202D3A)" }}>
                         <Header page={page} config={config} />
                     <main id="content" className="site-content">
                         {this.props.children}
