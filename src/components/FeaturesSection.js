@@ -33,7 +33,7 @@ export default class FeaturesSection extends React.Component {
                 )}
                 <div className="section__body cell">
                     {title && (
-                        sectionTitle ? <h3 className="section__title">{title}</h3>
+                        sectionTitle ? <h2 className="section__title">{title}</h3>
                             : <h2 className="section__title">{title}</h2>
                     )}
                     {content && <div className="section__copy">{markdownify(content)}</div>}
