@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import Action from './Action';
 
 import {classNames, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
