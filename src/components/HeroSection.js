@@ -73,6 +73,7 @@ export default class HeroSection extends React.Component {
                                 </p>
                                 </div>}
                             {!_.isEmpty(actions) && (
+                                <div>
                                 <div className="section__actions btn-group">
                                     <Action action={actions[0]} />
                                     <Action action={actions[1]} />
