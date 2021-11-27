@@ -68,7 +68,7 @@ export default class HeroSection extends React.Component {
                         <div className="cell section__body">
                             {title && <h1 className="section__title">{title}</h1>}
                             {subtitle && <div className="section__copy">
-                                <p style="">
+                                <p style="#{}">
                                 {subtitle}
                                 </p>
                                 </div>}
