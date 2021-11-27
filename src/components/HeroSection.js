@@ -70,7 +70,7 @@ export default class HeroSection extends React.Component {
                             {subtitle && <div className="section__copy">
                                 <h2>
                                 {subtitle}
-                                </p>
+                                </h2>
                                 </div>}
                             {!_.isEmpty(actions) && (
                                 <div>
