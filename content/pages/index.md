@@ -5,7 +5,7 @@ sections:
     title: "Hello There! \U0001F44B"
     subtitle: Glad you made it! I’m Ahmed Ramy
     actions:
-      - label: lorem-ipsum
+      - label: Read Articles
         url: '#'
         style: primary
         new_window: false
