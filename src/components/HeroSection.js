@@ -77,7 +77,6 @@ export default class HeroSection extends React.Component {
                                     <Action action={actions[0]} />
                                     <Action action={actions[1]} />
                                 </div>
-
                                 
                             )}
                         </div>
