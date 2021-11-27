@@ -81,6 +81,7 @@ export default class HeroSection extends React.Component {
                                 <div className="">
                                     <Action action={actions[2]} />
                                 </div>
+                                </div>
                             )}
                         </div>
                     </div>
