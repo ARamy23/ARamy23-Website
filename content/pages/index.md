@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hello, there!'
+    title: "Hello There! \U0001F44B"
     subtitle: >-
       I'm Ahmed Ramy and am really excited that you landed on my personal
       website!
