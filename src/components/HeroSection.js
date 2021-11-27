@@ -71,6 +71,9 @@ export default class HeroSection extends React.Component {
                                 <h2>
                                 {subtitle}
                                 </h2>
+                                <p>
+                                    A friendly guy from Egypt who enjoys explaining complex stuff in simple ways over a green tea 🍵, mostly Software Design related, when am not watching Friends nor Anime or playing games 🎮
+                                </p>
                                 </div>}
                             {!_.isEmpty(actions) && (
                                 <div>
