@@ -4,7 +4,12 @@ sections:
   - type: hero_section
     title: "Hello There! \U0001F44B"
     subtitle: Glad you made it! I’m Ahmed Ramy
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image: /images/Logo-ce96be54.png
     image_alt: Hero placeholder image
