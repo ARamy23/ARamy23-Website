@@ -71,23 +71,6 @@ input[type="reset"],
   }
 }
 
-.wrapper {
-  display: flex;
-  flex-direction: row;
-  align-items: stretch;
-  width: 100%;
-  height: 5em;
-  background: #ccc;
-}
-
-.wrapper>.left {
-  background: #fcc;
-}
-
-.wrapper>.right {
-  background: #ccf;
-  flex: 1;
-}
 
 .align-center {
   .btn-group {
