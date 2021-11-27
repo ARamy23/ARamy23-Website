@@ -71,18 +71,6 @@ input[type="reset"],
   }
 }
 
-btn-group-fill {
-  align-items: stretch;
-  display: flex;
-  flex-wrap: wrap;
-
-  a,
-  .btn {
-    margin: 0 1.125em 1.125em 0;
-  }
-}
-
-
 .align-center {
   .btn-group {
     justify-content: center;
