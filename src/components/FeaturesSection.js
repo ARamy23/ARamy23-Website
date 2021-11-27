@@ -55,8 +55,8 @@ export default class FeaturesSection extends React.Component {
         return (
             <section className="section section--features">
                 {title && (
-                    <div className="container container--md align-left">
-                        <div style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>
+                    <div style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }} className="container container--md align-left">
+                        <div>
                             <h3 className="section__title">{title}</h3>
                         </div>
                     </div>
