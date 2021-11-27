@@ -68,7 +68,8 @@ export default class HeroSection extends React.Component {
                             {title && <h1 className="section__title">{title}</h1>}
                             {subtitle && <div className="section__copy">
                                 <p>
-                                {subtitle}</p></div>}
+                                {subtitle}</p>
+                                </div>}
                             {!_.isEmpty(actions) && (
                                 <div className="section__actions btn-group">
                                     <SectionActions actions={actions} />
