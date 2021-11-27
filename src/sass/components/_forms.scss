@@ -76,7 +76,7 @@ textarea {
   }
 
   &:after {
-    border-bottom-color: none;
+    border-bottom-color: $color-text;
     margin-top: -.75em;
   }
 }
