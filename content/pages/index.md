@@ -15,7 +15,7 @@ sections:
         style: secondary
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Know me
         url: '#'
         style: secondary
         new_window: false
