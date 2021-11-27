@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: "Hello There! \U0001F44B"
-    subtitle: >-
-      I'm Ahmed Ramy and am really excited that you landed on my personal
-      website!
+    subtitle: Glad you made it! I’m Ahmed Ramy
     actions: []
     align: left
     image: /images/Logo-ce96be54.png
