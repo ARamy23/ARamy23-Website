@@ -10,7 +10,7 @@ sections:
         style: primary
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Watch Videos
         url: '#'
         style: secondary
         new_window: false
