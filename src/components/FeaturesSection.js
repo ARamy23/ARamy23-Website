@@ -58,7 +58,7 @@ export default class FeaturesSection extends React.Component {
                         <h3 className="container-no-l  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
                     </div>
                 )
-
+                
         const trailingTitle = (
             <div className={"align-left"}>
                 <h3 className="container-no-l  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
