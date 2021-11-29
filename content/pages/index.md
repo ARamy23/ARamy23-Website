@@ -82,6 +82,7 @@ sections:
             style: primary
             new_window: false
             no_follow: false
+    isLeading: true
 seo:
   title: Nerdor
   description: 'The very home of the '
