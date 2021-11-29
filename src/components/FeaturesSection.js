@@ -52,7 +52,7 @@ export default class FeaturesSection extends React.Component {
         const section = _.get(this.props, 'section');
         const title = _.get(section, 'title');
         const features = _.get(section, 'features');
-
+        const isLeading = _.get(section, "")
         const leadingTitle = (
                     <div className={"align-left"}>
                         <h3 className="container-no-l  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
