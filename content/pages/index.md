@@ -93,7 +93,7 @@ sections:
     type: blog_feed_section
     isLeading: true
   - actions:
-      - label: lorem-ipsum
+      - label: Check all the Videos
         url: '#'
         style: link
         new_window: false
