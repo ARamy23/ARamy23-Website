@@ -87,13 +87,8 @@ sections:
     show_recent: true
     recent_count: 3
     type: blog_feed_section
-  - title: Recent Uploaded Videos
-    show_recent: true
-    recent_count: 3
-    type: blog_feed_section
-    isLeading: true
   - actions:
-      - label: Check all the Videos
+      - label: Check all blogs
         url: '#'
         style: primary
         new_window: false
@@ -101,8 +96,13 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
+  - title: Recent Uploaded Videos
+    show_recent: true
+    recent_count: 3
+    type: blog_feed_section
+    isLeading: true
   - actions:
-      - label: Check all blogs
+      - label: Check all the Videos
         url: '#'
         style: primary
         new_window: false
