@@ -344,6 +344,8 @@ models:
         description: The type of the object
         const: blog_feed_section
         hidden: true
+      - name: ''
+        type: string
   contact_section:
     type: object
     label: Contact Section
