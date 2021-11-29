@@ -441,6 +441,7 @@ models:
         hidden: true
       - name: isLeading
         type: boolean
+        label: isLeading
   hero_section:
     type: object
     label: Hero Section
