@@ -13,7 +13,6 @@ export default class FeaturesSection extends React.Component {
         const title = _.get(feature, 'title');
         const content = _.get(feature, 'content');
         const actions = _.get(feature, 'actions');
-        const isLeading = _.get(feature, 'isLeading')
 
         return (
             <div
