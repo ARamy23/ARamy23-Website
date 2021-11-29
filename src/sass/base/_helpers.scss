@@ -19,6 +19,16 @@
   padding-block: 0.625rem;
 }
 
+.container-no-l {
+  margin-left: 0;
+  margin-right: auto;
+  max-width: fit-content;
+  border-radius: 0% 0.75rem 0.75rem 0%;
+  padding-left: 4.125rem;
+  padding-right: 1.75rem;
+  padding-block: 0.625rem;
+}
+
 .container--md {
   max-width: $width-md;
 }
