@@ -98,7 +98,7 @@ sections:
         style: primary
         new_window: false
         no_follow: false
-    has_background: true
+    has_background: false
     background_color: white
     type: cta_section
 seo:
