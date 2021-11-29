@@ -93,7 +93,6 @@ sections:
     type: blog_feed_section
     isLeading: true
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions:
       - label: lorem-ipsum
         url: '#'
