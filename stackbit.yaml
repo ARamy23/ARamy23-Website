@@ -443,6 +443,7 @@ models:
         type: boolean
         label: isLeading
         default: true
+        required: true
   hero_section:
     type: object
     label: Hero Section
