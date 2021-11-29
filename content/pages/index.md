@@ -91,7 +91,7 @@ sections:
     show_recent: true
     recent_count: 3
     type: blog_feed_section
-    isLeading: false
+    isLeading: true
 seo:
   title: Nerdor
   description: 'The very home of the '
