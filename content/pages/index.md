@@ -101,8 +101,7 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions:
       - label: Check all blogs
         url: '#'
