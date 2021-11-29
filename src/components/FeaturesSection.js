@@ -53,7 +53,7 @@ export default class FeaturesSection extends React.Component {
         const title = _.get(section, 'title');
         const features = _.get(section, 'features');
         const isLeading = _.get(section, 'isLeading');
-        
+
         const leadingTitle = (
                     <div className={"align-left"}>
                         <h3 className="container-no-l  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
@@ -68,7 +68,7 @@ export default class FeaturesSection extends React.Component {
 
         return (
             <section className="section section--features">
-                {title && (this.isLeading == true ? leadingTitle : trailingTitle) }
+                {title && (isLeading == true ? leadingTitle : trailingTitle) }
                 {!_.isEmpty(features) && (
                     <div className="container container--lg">
                         {_.map(features, (feature, index) => this.renderFeature(feature, index, title))}
