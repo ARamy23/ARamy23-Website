@@ -440,7 +440,7 @@ models:
         const: features_section
         hidden: true
       - name: isLeading
-        type: string
+        type: boolean
   hero_section:
     type: object
     label: Hero Section
