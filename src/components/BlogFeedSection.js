@@ -95,6 +95,7 @@ export default class BlogFeedSection extends React.Component {
                 <h3 className="container-no-r  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
             </div>
         )
+        
         if (showRecent) {
             posts = posts.slice(0, recentCount);
         }
