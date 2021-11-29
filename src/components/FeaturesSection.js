@@ -60,14 +60,14 @@ export default class FeaturesSection extends React.Component {
                 )
 
         const trailingTitle = (
-            <div className={"align-left"}>
+            <div className={"align-right"}>
                 <h3 className="container-no-l  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
             </div>
         )
-        
+
         return (
             <section className="section section--features">
-                {title && leadingTitle}
+                {title && trailingTitle}
                 {!_.isEmpty(features) && (
                     <div className="container container--lg">
                         {_.map(features, (feature, index) => this.renderFeature(feature, index, title))}
