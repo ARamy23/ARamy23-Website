@@ -95,18 +95,14 @@ export default class BlogFeedSection extends React.Component {
                 <h3 className="container-no-r  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
             </div>
         )
-        
+
         if (showRecent) {
             posts = posts.slice(0, recentCount);
         }
 
         return (
             <section className="section section--posts">
-                {title && (
-                    <div className="container container--md align-center">
-                        <h2 className="section__title">{title}</h2>
-                    </div>
-                )}
+                {title && (isLeading == true ? leadingTitle : trailingTitle)}
                 <div className="container container--lg">
                     <div className="flex flex--col-3">
                         {_.map(posts, (post, index) => {
