@@ -92,8 +92,7 @@ sections:
     recent_count: 3
     type: blog_feed_section
     isLeading: true
-  - title: lorem-ipsum
-    actions:
+  - actions:
       - label: lorem-ipsum
         url: '#'
         style: link
