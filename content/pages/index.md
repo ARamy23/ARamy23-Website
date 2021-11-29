@@ -83,6 +83,10 @@ sections:
             new_window: false
             no_follow: false
     isLeading: false
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
 seo:
   title: Nerdor
   description: 'The very home of the '
