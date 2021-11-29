@@ -347,6 +347,7 @@ models:
       - name: isLeading
         type: boolean
         label: Should Be on Leading
+        required: true
   contact_section:
     type: object
     label: Contact Section
