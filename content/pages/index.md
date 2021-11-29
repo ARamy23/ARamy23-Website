@@ -82,7 +82,7 @@ sections:
             style: primary
             new_window: false
             no_follow: false
-    isLeading: false
+    isLeading: true
   - title: Recent Blog Articles
     show_recent: true
     recent_count: 3
