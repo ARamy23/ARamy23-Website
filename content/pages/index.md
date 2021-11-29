@@ -83,7 +83,7 @@ sections:
             new_window: false
             no_follow: false
     isLeading: false
-  - title: lorem-ipsum
+  - title: Recent Blog Articles
     show_recent: false
     recent_count: 0
     type: blog_feed_section
