@@ -87,7 +87,7 @@ sections:
     show_recent: true
     recent_count: 3
     type: blog_feed_section
-  - title: lorem-ipsum
+  - title: Recent Videos Articles
     show_recent: false
     recent_count: 0
     type: blog_feed_section
