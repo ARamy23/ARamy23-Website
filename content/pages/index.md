@@ -88,7 +88,7 @@ sections:
     recent_count: 3
     type: blog_feed_section
   - title: Recent Uploaded Videos
-    show_recent: false
+    show_recent: true
     recent_count: 0
     type: blog_feed_section
     isLeading: false
