@@ -84,7 +84,7 @@ sections:
             no_follow: false
     isLeading: false
   - title: Recent Blog Articles
-    show_recent: false
+    show_recent: true
     recent_count: 0
     type: blog_feed_section
 seo:
