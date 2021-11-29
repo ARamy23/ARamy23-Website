@@ -82,6 +82,19 @@ export default class BlogFeedSection extends React.Component {
         const showRecent = _.get(section, 'show_recent');
         const recentCount = _.get(section, 'recent_count', 3);
         let posts = _.orderBy(_.get(this.props, 'posts', []), 'date', 'desc');
+        const isLeading = _.get(section, 'isLeading');
+
+        const leadingTitle = (
+                    <div className={"align-left"}>
+                        <h3 className="container-no-l  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
+                    </div>
+                )
+
+        const trailingTitle = (
+            <div className={"align-right"}>
+                <h3 className="container-no-r  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
+            </div>
+        )
         if (showRecent) {
             posts = posts.slice(0, recentCount);
         }
