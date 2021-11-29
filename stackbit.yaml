@@ -345,7 +345,8 @@ models:
         const: blog_feed_section
         hidden: true
       - name: isLeading
-        type: string
+        type: boolean
+        label: Should Be on Leading
   contact_section:
     type: object
     label: Contact Section
