@@ -60,7 +60,7 @@ export default class FeaturesSection extends React.Component {
                 )
         return (
             <section className="section section--features">
-                {title && }
+                {title && leadingTitle}
                 {!_.isEmpty(features) && (
                     <div className="container container--lg">
                         {_.map(features, (feature, index) => this.renderFeature(feature, index, title))}
