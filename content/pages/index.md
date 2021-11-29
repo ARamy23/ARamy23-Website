@@ -85,7 +85,7 @@ sections:
     isLeading: false
   - title: Recent Blog Articles
     show_recent: true
-    recent_count: 0
+    recent_count: 3
     type: blog_feed_section
 seo:
   title: Nerdor
