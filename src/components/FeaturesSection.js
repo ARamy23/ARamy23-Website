@@ -53,6 +53,11 @@ export default class FeaturesSection extends React.Component {
         const title = _.get(section, 'title');
         const features = _.get(section, 'features');
 
+        const leadingTitle = (
+                    <div className={this.isLeading ? "align-left" : "align-right"}>
+                        <h3 className="container-no-l  section__title" style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}>{title}</h3>
+                    </div>
+                )
         return (
             <section className="section section--features">
                 {title && }
