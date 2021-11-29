@@ -344,7 +344,7 @@ models:
         description: The type of the object
         const: blog_feed_section
         hidden: true
-      - name: ''
+      - name: isLeading
         type: string
   contact_section:
     type: object
