@@ -88,7 +88,7 @@ sections:
     recent_count: 3
     type: blog_feed_section
   - actions:
-      - label: Check all blogs
+      - label: Check all the Articles
         url: '#'
         style: primary
         new_window: false
