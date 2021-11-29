@@ -441,7 +441,7 @@ models:
         hidden: true
       - name: isLeading
         type: boolean
-        label: isLeading
+        label: Should Section start from Leading? (Left in LTR)
         default: true
         required: true
   hero_section:
