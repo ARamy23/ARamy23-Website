@@ -443,7 +443,6 @@ models:
         type: boolean
         label: Should Section start from Leading? (Left in LTR)
         default: true
-        required: true
   hero_section:
     type: object
     label: Hero Section
