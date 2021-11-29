@@ -94,7 +94,12 @@ sections:
     isLeading: true
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     has_background: false
     background_color: white
     type: cta_section
