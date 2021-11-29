@@ -110,6 +110,8 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
+  - title: lorem-ipsum
+    type: contact_section
 seo:
   title: Nerdor
   description: 'The very home of the '
