@@ -442,6 +442,7 @@ models:
       - name: isLeading
         type: boolean
         label: isLeading
+        default: true
   hero_section:
     type: object
     label: Hero Section
