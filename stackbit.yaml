@@ -749,5 +749,5 @@ models:
         type: markdown
         label: Team Achievements
       - name: ''
-        type: string
+        type: markdown
         label: Personal Achievements
