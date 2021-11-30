@@ -709,6 +709,7 @@ models:
       - name: number_of_recent_posts
         type: number
         default: 3
+        label: Number Of Recent Posts
       - name: ''
         type: string
     labelField: Title
