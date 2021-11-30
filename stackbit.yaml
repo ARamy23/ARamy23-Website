@@ -702,7 +702,7 @@ models:
       - name: Title
         type: string
         label: Title
-      - name: Show Recent Videos
+      - name: show_recent_videos
         type: boolean
         label: Show Recent Videos
     labelField: Title
