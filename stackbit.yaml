@@ -715,3 +715,6 @@ models:
         label: Should be leading
         default: false
     labelField: Title
+  work_history:
+    type: object
+    label: work_history
