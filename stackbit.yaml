@@ -713,4 +713,5 @@ models:
       - name: isLeading
         type: boolean
         label: Should be leading
+        default: false
     labelField: Title
