@@ -34,7 +34,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Facebook",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
