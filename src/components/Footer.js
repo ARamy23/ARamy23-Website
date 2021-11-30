@@ -62,10 +62,6 @@ export default class Footer extends React.Component {
                             {copyright}
                         </h6>
                         }
-                        {copyright && <span>{htmlToReact(copyright)}</span>}
-                        {_.map(links, (action, index) => (
-                            <Action key={index} action={action} />
-                        ))}
                     </div>
                 </div>
             </footer>
