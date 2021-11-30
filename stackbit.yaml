@@ -745,6 +745,6 @@ models:
       - name: app_logo
         type: image
         label: App Logo
-      - name: ''
+      - name: team_achievements
         type: string
         label: Team Achievements
