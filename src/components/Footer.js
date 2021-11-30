@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import Action from './Action';
 import { htmlToReact } from '../utils';
+import { Link, withPrefix, classNames, getPageUrl } from '../utils';
 
 export default class Footer extends React.Component {
     render() {
