@@ -19,16 +19,7 @@ export default class Footer extends React.Component {
             <footer className="site-footer">
                 <div className="container container--lg">
                     {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && (
-                        <div className="site-footer__nav">
-                            {hasNav && !_.isEmpty(navLinks) && (
-                                <ul className="site-footer__menu menu">
-                                    {_.map(navLinks, (action, index) => (
-                                        <li key={index}>
-                                            <Action action={action} />
-                                        </li>
-                                    ))}
-                                </ul>
-                            )}
+                        
                             
                             {hasSocial && !_.isEmpty(socialLinks) && (
                                 <ul className="site-footer__social menu">
