@@ -27,51 +27,5 @@
         "logo_alt": "@ARamy23"
     },
     "domain": "https://aramy.netlify.app/",
-    "favicon": "/images/Logo-44036730.png",
-    "footer": {
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
-            }
-        ],
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/A.RaMy236",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
-            }
-        ],
-        "content": "lorem-ipsum",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
-    }
+    "favicon": "/images/Logo-44036730.png"
 }
