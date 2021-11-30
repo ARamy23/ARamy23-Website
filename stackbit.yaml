@@ -722,3 +722,5 @@ models:
       - name: company_name
         type: string
         label: Company Name
+      - name: ''
+        type: string
