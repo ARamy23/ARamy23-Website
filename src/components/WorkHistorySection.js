@@ -5,7 +5,7 @@ import {Link, withPrefix, getData, getPageUrl} from '../utils';
 import BlogPostCategories from './BlogPostCategories';
 import BlogPostMeta from '../components/BlogPostMeta';
 
-export default class WorkFeedSection extends React.Component {
+export default class WorkHistoryFeedSection extends React.Component {
     renderBlogFeedItemFilter(post, data, section) {
         const sectionTitle = _.get(section, 'title');
         const sectionAuthorRef = _.get(section, 'author');
