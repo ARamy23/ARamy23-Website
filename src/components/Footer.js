@@ -59,6 +59,7 @@ export default class Footer extends React.Component {
                     <div className="site-footer__copyright align-center">
                         {copyright && 
                         <h6>
+                            <br/>
                             {copyright}
                         </h6>
                         }
