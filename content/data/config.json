@@ -4,7 +4,24 @@
     "header": {
         "title": "@ARamy23",
         "has_nav": true,
-        "nav_links": 
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Portfolio",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            }
         ],
         "logo": "/images/ARamy Logo.svg",
         "logo_alt": "@ARamy23"
