@@ -698,3 +698,6 @@ models:
   video_feed_section:
     type: object
     label: Video Feed Section
+    fields:
+      - name: ''
+        type: string
