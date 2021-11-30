@@ -32,7 +32,7 @@ export default class Footer extends React.Component {
                     && !_.isEmpty(navLinks)) 
                     || (hasSocial && !_.isEmpty(socialLinks))) && (
                         <div>
-                            <h5 style=style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}><br/><br/>Find me @</h5>
+                            <h5 style={{backgroundImage: "linear-gradient(to right, #EDF7F8, #B5C7E1)" }}><br/><br/>Find me @</h5>
                             <div className="site-footer__nav">
                                 {hasNav && !_.isEmpty(navLinks) && (
                                     <ul className="site-footer__menu menu">
