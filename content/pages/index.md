@@ -111,7 +111,7 @@ sections:
     background_color: white
     type: cta_section
   - title: Subscribe to The Newsletter
-    subtitle: lorem-ipsum
+    subtitle: Want to keep your brain engaged with great UI/UX learning content?
     actions: []
     has_background: false
     background_color: white
