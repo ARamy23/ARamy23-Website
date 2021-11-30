@@ -710,7 +710,7 @@ models:
         type: number
         default: 3
         label: Number Of Recent Posts
-      - name: ''
+      - name: isLeading
         type: string
         label: ''
     labelField: Title
