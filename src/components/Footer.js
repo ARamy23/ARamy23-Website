@@ -59,7 +59,7 @@ export default class Footer extends React.Component {
                     <div className="site-footer__copyright align-center">
                         {copyright && 
                         <h6>
-                            copyright
+                            {copyright}
                         </h6>
                         }
                         {copyright && <span>{htmlToReact(copyright)}</span>}
