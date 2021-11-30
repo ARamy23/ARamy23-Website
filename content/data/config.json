@@ -50,7 +50,57 @@
             }
         ],
         "has_social": true,
-        "social_links": ,
+        "social_links": [
+            {
+                "label": "Facebook",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Twitter",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Instagram",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "LinkedIn",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Hashnode",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "YouTube",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Github",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
         "content": "Made with ❤️ in the lands of the Pharos & Camels 🐪",
         "links": []
     }
