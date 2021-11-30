@@ -739,5 +739,5 @@ models:
       - name: end_date
         type: string
         label: End Date
-      - name: ''
+      - name: project_type
         type: string
