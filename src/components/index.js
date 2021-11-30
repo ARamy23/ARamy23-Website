@@ -39,6 +39,7 @@ export {
 export default {
     Action,
     BlogFeedSection,
+    WorkHistorySection,
     BlogPostCategories,
     BlogPostMeta,
     BlogPostTags,
