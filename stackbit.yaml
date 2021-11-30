@@ -728,3 +728,4 @@ models:
         label: Am I Here?
       - name: Project Name
         type: string
+        label: Project Name
