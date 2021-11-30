@@ -15,8 +15,6 @@ export default class Footer extends React.Component {
         const copyright = _.get(footer, 'content');
         const links = _.get(footer, 'links');
         const page = _.get(this.props, 'page');
-        const pageUrl = _.trim(getPageUrl(page), '/');
-        const config = _.get(this.props, 'config');
         const header = _.get(config, 'header');
         const logo = _.get(header, 'logo');
 
