@@ -750,3 +750,4 @@ models:
         label: Team Achievements
       - name: ''
         type: string
+        label: Personal Achievements
