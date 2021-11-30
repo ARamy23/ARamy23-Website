@@ -712,4 +712,5 @@ models:
         label: Number Of Recent Posts
       - name: ''
         type: string
+        label: ''
     labelField: Title
