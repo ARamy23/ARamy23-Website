@@ -719,5 +719,5 @@ models:
     type: object
     label: Work History
     fields:
-      - name: ''
+      - name: company_name
         type: string
