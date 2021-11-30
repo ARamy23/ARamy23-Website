@@ -110,7 +110,7 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
-  - title: lorem-ipsum
+  - title: Subscribe to The Newsletter
     subtitle: lorem-ipsum
     actions: []
     has_background: false
