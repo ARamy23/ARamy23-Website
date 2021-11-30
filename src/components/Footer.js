@@ -29,6 +29,9 @@ export default class Footer extends React.Component {
                                     ))}
                                 </ul>
                             )}
+                        </div>
+
+                        <div>
                             {hasSocial && !_.isEmpty(socialLinks) && (
                                 <ul className="site-footer__social menu">
                                     {_.map(socialLinks, (action, index) => (
