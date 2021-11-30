@@ -711,6 +711,6 @@ models:
         default: 3
         label: Number Of Recent Posts
       - name: isLeading
-        type: string
+        type: boolean
         label: Should be leading
     labelField: Title
