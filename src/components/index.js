@@ -1,5 +1,6 @@
 import Action from './Action';
 import BlogFeedSection from './BlogFeedSection';
+import WorkHistorySection from './WorkHistorySection'
 import BlogPostCategories from './BlogPostCategories';
 import BlogPostMeta from './BlogPostMeta';
 import BlogPostTags from './BlogPostTags';
