@@ -753,3 +753,4 @@ models:
         label: Personal Achievements
       - name: normal_day_description
         type: string
+        label: Normal Day Description
