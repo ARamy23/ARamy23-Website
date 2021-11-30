@@ -14,6 +14,7 @@ export default class Footer extends React.Component {
         const socialLinks = _.get(footer, 'social_links');
         const copyright = _.get(footer, 'content');
         const links = _.get(footer, 'links');
+        const logo = _.get(header, 'logo');
         
         return (
             <footer className="site-footer">
