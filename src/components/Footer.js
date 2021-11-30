@@ -18,6 +18,7 @@ export default class Footer extends React.Component {
         const page = _.get(this.props, 'page');
         const header = _.get(config, 'header');
         const logo = _.get(header, 'logo');
+        const logoAlt = _.get(header, 'logo_alt', '');
 
         return (
             <footer className="site-footer">
