@@ -695,3 +695,6 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
+  video:
+    type: object
+    label: video
