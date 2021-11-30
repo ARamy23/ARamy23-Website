@@ -699,5 +699,5 @@ models:
     type: object
     label: Video Feed Section
     fields:
-      - name: ''
+      - name: Title
         type: string
