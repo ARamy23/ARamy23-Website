@@ -697,4 +697,4 @@ models:
     labelField: title
   video:
     type: object
-    label: video
+    label: Video Feed Section
