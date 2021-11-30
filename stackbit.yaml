@@ -300,6 +300,7 @@ models:
             - features_section
             - hero_section
             - team_section
+            - work_history_section
       - type: model
         name: seo
         models:
