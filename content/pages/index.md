@@ -111,7 +111,7 @@ sections:
     background_color: white
     type: cta_section
   - title: Subscribe to The Newsletter
-    subtitle: Want to keep your brain engaged with great UI/UX learning content?
+    subtitle: Want to keep your brain engaged with Software Design learning content?
     actions: []
     has_background: false
     background_color: white
