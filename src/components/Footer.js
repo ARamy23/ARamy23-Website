@@ -32,7 +32,7 @@ export default class Footer extends React.Component {
                     && !_.isEmpty(navLinks)) 
                     || (hasSocial && !_.isEmpty(socialLinks))) && (
                         <div>
-                            <h6>\nFind me @</h6>
+                            <h6><br></br>Find me @</h6>
                             <div className="site-footer__nav">
                                 {hasNav && !_.isEmpty(navLinks) && (
                                     <ul className="site-footer__menu menu">
