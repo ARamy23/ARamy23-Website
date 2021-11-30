@@ -22,7 +22,7 @@ export default class Footer extends React.Component {
 
         return (
             <footer className="site-footer">
-                <div className="container container--lg p">
+                <div className="container container--lg py">
                         {logo ? <Link className="navbar__logo" href={withPrefix('/')}><img src={withPrefix(logo)} alt={logoAlt} /></Link>
                             : <Link className="h4 navbar__title" href={withPrefix('/')}>{title}</Link>
                         }                    
