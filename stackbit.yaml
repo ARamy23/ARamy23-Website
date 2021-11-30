@@ -745,3 +745,5 @@ models:
       - name: app_logo
         type: image
         label: App Logo
+      - name: ''
+        type: string
