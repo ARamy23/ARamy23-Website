@@ -2,8 +2,6 @@ import React from 'react';
 import _ from 'lodash';
 
 import {Link, withPrefix, getData, getPageUrl} from '../utils';
-import BlogPostCategories from './VideoCategories';
-import BlogPostMeta from '../components/VideoMeta';
 
 export default class VideoFeedSection extends React.Component {
     renderBlogFeedItemFilter(post, data, section) {
