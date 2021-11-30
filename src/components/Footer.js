@@ -21,7 +21,7 @@ export default class Footer extends React.Component {
         return (
             <footer className="site-footer">
                 <div className="container">
-
+                    
                 </div>
                 <div className="container container--lg">
                     {((hasNav 
