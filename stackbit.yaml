@@ -705,4 +705,5 @@ models:
       - name: show_recent_videos
         type: boolean
         label: Show Recent Videos
+        default: true
     labelField: Title
