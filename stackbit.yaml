@@ -743,4 +743,4 @@ models:
         type: string
         label: Project Type
       - name: App Logo
-        type: string
+        type: image
