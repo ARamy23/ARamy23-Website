@@ -742,3 +742,5 @@ models:
       - name: project_type
         type: string
         label: Project Type
+      - name: ''
+        type: string
