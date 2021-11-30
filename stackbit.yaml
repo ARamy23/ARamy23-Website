@@ -707,5 +707,5 @@ models:
         label: Show Recent Videos
         default: true
       - name: Number of recent posts
-        type: string
+        type: number
     labelField: Title
