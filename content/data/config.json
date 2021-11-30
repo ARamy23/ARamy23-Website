@@ -30,7 +30,25 @@
     "favicon": "/images/Logo-44036730.png",
     "footer": {
         "has_nav": true,
-        "nav_links": [],
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Portfolio",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            }
+        ],
         "has_social": true,
         "social_links": [
             {
