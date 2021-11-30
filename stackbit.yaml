@@ -721,3 +721,4 @@ models:
     fields:
       - name: company_name
         type: string
+        label: Company Name
