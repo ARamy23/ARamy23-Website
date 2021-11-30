@@ -754,6 +754,6 @@ models:
       - name: normal_day_description
         type: string
         label: Normal Day Description
-      - name: ''
+      - name: how_we_work_desc
         type: string
         label: How do we do work
