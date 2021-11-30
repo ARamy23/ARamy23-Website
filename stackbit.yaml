@@ -723,4 +723,4 @@ models:
         type: string
         label: Company Name
       - name: amIHere
-        type: string
+        type: boolean
