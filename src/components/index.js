@@ -19,6 +19,7 @@ import TeamSection from './TeamSection';
 export {
     Action,
     BlogFeedSection,
+    WorkHistorySection,
     BlogPostCategories,
     BlogPostMeta,
     BlogPostTags,
