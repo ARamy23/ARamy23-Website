@@ -759,3 +759,4 @@ models:
         label: How do we do work
       - name: duration
         type: string
+        label: Duraiton
