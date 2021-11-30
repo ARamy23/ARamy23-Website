@@ -716,7 +716,7 @@ models:
         label: Should be leading
         default: false
     labelField: Title
-  work_history:
+  work_history_section:
     type: object
     label: Work History
     fields:
@@ -761,3 +761,4 @@ models:
       - name: duration
         type: string
         label: Duraiton
+    labelField: company_name
