@@ -40,7 +40,7 @@ export default class Footer extends React.Component {
                             )}
                         </div>
                     )}
-                    <div className="site-footer__copyright">
+                    <div className="site-footer__copyright align-center">
                         {copyright && <span>{htmlToReact(copyright)}</span>}
                         {_.map(links, (action, index) => (
                             <Action key={index} action={action} />
