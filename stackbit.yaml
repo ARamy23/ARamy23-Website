@@ -695,6 +695,6 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
-  video:
+  video_feed_section:
     type: object
     label: Video Feed Section
