@@ -742,6 +742,6 @@ models:
       - name: project_type
         type: string
         label: Project Type
-      - name: App Logo
+      - name: app_logo
         type: image
         label: App Logo
