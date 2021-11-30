@@ -748,6 +748,6 @@ models:
       - name: team_achievements
         type: markdown
         label: Team Achievements
-      - name: ''
+      - name: personal_achievements
         type: markdown
         label: Personal Achievements
