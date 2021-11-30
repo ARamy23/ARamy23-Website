@@ -706,7 +706,7 @@ models:
         type: boolean
         label: Show Recent Videos
         default: true
-      - name: Number of recent posts
+      - name: number_of_recent_posts
         type: number
         default: 3
       - name: ''
