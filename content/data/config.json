@@ -32,7 +32,15 @@
         "has_nav": true,
         "nav_links": [],
         "has_social": true,
-        "social_links": [],
+        "social_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
         "content": "Made with ❤️ in the lands of the Pharos & Camels 🐪",
         "links": []
     }
