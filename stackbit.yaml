@@ -726,5 +726,5 @@ models:
         type: boolean
         default: false
         label: Am I Here?
-      - name: ''
+      - name: Project Name
         type: string
