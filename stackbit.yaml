@@ -736,5 +736,8 @@ models:
       - name: start_date
         type: string
         label: Start Date
-      - name: End Date
+      - name: end_date
+        type: string
+        label: End Date
+      - name: ''
         type: string
