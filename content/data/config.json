@@ -40,7 +40,15 @@
             }
         ],
         "has_social": true,
-        "social_links": [],
+        "social_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
         "content": "lorem-ipsum",
         "links": []
     }
