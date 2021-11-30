@@ -6,8 +6,7 @@ import {Link, withPrefix, getData, getPageUrl} from '../utils';
 export default class VideoFeedSection extends React.Component {
     renderBlogFeedItemFilter(post, data, section) {
         const sectionTitle = _.get(section, 'title');
-        const sectionAuthorRef = _.get(section, 'author');
-        const sectionCategoryRef = _.get(section, 'category');
+        
         if (sectionAuthorRef) {
             const sectionAuthor = getData(data, sectionAuthorRef);
             if (_.isEmpty(sectionAuthor)) {
