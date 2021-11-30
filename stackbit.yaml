@@ -712,5 +712,5 @@ models:
         label: Number Of Recent Posts
       - name: isLeading
         type: string
-        label: ''
+        label: Should be leading
     labelField: Title
