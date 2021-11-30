@@ -702,6 +702,6 @@ models:
       - name: Title
         type: string
         label: Title
-      - name: ''
+      - name: Show Recent Videos
         type: string
     labelField: Title
