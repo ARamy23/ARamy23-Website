@@ -20,7 +20,7 @@ export default class Footer extends React.Component {
                 <div className="container container--lg">
                     <h6>
                         Find me at
-                    </p>
+                    </h6>
                     {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && (
                             {hasSocial && !_.isEmpty(socialLinks) && (
                                 <ul className="site-footer__social menu">
