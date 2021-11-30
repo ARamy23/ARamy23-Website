@@ -708,4 +708,5 @@ models:
         default: true
       - name: Number of recent posts
         type: number
+        default: 3
     labelField: Title
