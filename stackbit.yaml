@@ -761,4 +761,10 @@ models:
       - name: duration
         type: string
         label: Duraiton
+      - type: string
+        name: type
+        label: Object Type
+        description: The type of the object
+        const: work_history_section
+        hidden: true
     labelField: company_name
