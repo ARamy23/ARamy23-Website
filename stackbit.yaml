@@ -741,3 +741,4 @@ models:
         label: End Date
       - name: project_type
         type: string
+        label: Project Type
