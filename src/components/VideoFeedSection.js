@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import {Link, withPrefix, getData, getPageUrl} from '../utils';
-import BlogPostCategories from './BlogPostCategories';
+import BlogPostCategories from './VideoPostCategories';
 import BlogPostMeta from '../components/BlogPostMeta';
 
 export default class VideoFeedSection extends React.Component {
