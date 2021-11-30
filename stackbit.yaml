@@ -718,7 +718,7 @@ models:
     labelField: Title
   work_history_section:
     type: object
-    label: Work History
+    label: Work History Section
     fields:
       - name: company_name
         type: string
