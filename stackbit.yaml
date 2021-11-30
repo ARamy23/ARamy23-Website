@@ -725,3 +725,6 @@ models:
       - name: amIHere
         type: boolean
         default: false
+        label: Am I Here?
+      - name: ''
+        type: string
