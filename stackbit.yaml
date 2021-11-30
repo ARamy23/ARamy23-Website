@@ -703,5 +703,5 @@ models:
         type: string
         label: Title
       - name: Show Recent Videos
-        type: string
+        type: boolean
     labelField: Title
