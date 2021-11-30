@@ -110,12 +110,6 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
-  - title: Subscribe to The Newsletter
-    subtitle: Want to keep your brain engaged with Software Design learning content?
-    actions: []
-    has_background: false
-    background_color: white
-    type: cta_section
 seo:
   title: Nerdor
   description: 'The very home of the '
