@@ -1,6 +1,10 @@
 ---
 title: lorem-ipsum
-sections: []
+sections:
+  - title: lorem-ipsum
+    features: []
+    type: features_section
+    isLeading: false
 seo:
   title: ''
   description: ''
