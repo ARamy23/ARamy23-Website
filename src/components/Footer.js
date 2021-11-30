@@ -60,6 +60,7 @@ export default class Footer extends React.Component {
                         {copyright && 
                         <h6>
                             <br/>
+                            <br/>
                             {copyright}
                         </h6>
                         }
