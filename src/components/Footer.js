@@ -14,11 +14,11 @@ export default class Footer extends React.Component {
         const socialLinks = _.get(footer, 'social_links');
         const copyright = _.get(footer, 'content');
         const links = _.get(footer, 'links');
-
+        
         return (
             <footer className="site-footer">
                 <div className="container">
-                    
+
                 </div>
                 <div className="container container--lg">
                     {((hasNav 
