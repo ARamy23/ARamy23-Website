@@ -18,7 +18,7 @@ export default class Footer extends React.Component {
         return (
             <footer className="site-footer">
                 <div className="container container--lg">
-                    <p>
+                    <h6>
                         Find me at
                     </p>
                     {((hasNav && !_.isEmpty(navLinks)) || (hasSocial && !_.isEmpty(socialLinks))) && (
