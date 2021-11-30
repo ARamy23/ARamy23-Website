@@ -709,4 +709,6 @@ models:
       - name: Number of recent posts
         type: number
         default: 3
+      - name: ''
+        type: string
     labelField: Title
