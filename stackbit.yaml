@@ -731,3 +731,4 @@ models:
         label: Project Name
       - name: job_title
         type: string
+        label: Job Title
