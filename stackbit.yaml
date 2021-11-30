@@ -754,3 +754,5 @@ models:
       - name: normal_day_description
         type: string
         label: Normal Day Description
+      - name: ''
+        type: string
